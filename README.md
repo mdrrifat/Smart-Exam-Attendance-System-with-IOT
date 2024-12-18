@@ -22,5 +22,3 @@
 ![](two.png)
 
 
-## LINK FOR WRITTEN BLOG
-
