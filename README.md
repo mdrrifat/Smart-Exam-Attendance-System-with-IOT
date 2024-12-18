@@ -1,4 +1,4 @@
-# Smart Attendance System
+# Smart Exam Attendance System
 
 
 ## CODE WITH DESCRIPTION
